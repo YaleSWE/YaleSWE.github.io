@@ -1,0 +1,66 @@
+[
+{
+    "first_name": "Caitlin",
+    "last_name": "Westerfield",
+    "college": "PC",
+    "year": 20,
+    "picture": "/img/board/caitlin_westerfield.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Elizabeth",
+    "last_name": "Brooks",
+    "college": "SY",
+    "year": 20,
+    "picture": "/img/board/elizabeth_brooks.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Caitlin",
+    "last_name": "Westerfield",
+    "college": "PC",
+    "year": 20,
+    "picture": "/img/board/caitlin_westerfield.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Elizabeth",
+    "last_name": "Brooks",
+    "college": "SY",
+    "year": 20,
+    "picture": "/img/board/elizabeth_brooks.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Caitlin",
+    "last_name": "Westerfield",
+    "college": "PC",
+    "year": 20,
+    "picture": "/img/board/caitlin_westerfield.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Elizabeth",
+    "last_name": "Brooks",
+    "college": "SY",
+    "year": 20,
+    "picture": "/img/board/elizabeth_brooks.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Caitlin",
+    "last_name": "Westerfield",
+    "college": "PC",
+    "year": 20,
+    "picture": "/img/board/caitlin_westerfield.jpg",
+    "role", "Co-President"
+},
+{
+    "first_name": "Elizabeth",
+    "last_name": "Brooks",
+    "college": "SY",
+    "year": 20,
+    "picture": "/img/board/elizabeth_brooks.jpg",
+    "role", "Co-President"
+}
+]

@@ -42,6 +42,10 @@ h1, h2, h3, h4, h5, h6 {
   padding: 60px 0px;
 }
 
+.section-top {
+  padding-top: 100px;
+}
+
 #loader {
   position: absolute;
   left: 50%;
