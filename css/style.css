@@ -124,11 +124,12 @@ HEADER
   background-size: cover;
   min-height: 650px;
   position: relative;
+  /* opacity: 20%; */
 }
 
 .bg-color {
   /* background-color: rgba(0, 0, 0, 0.5); */
-  background-color: #000000;
+  background-color: transparent;
   min-height: 650px;
 }
 
