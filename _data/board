@@ -60,6 +60,16 @@
     "role", “Outreach Chair”
 },
 {
+    "first_name": “Sam”,
+    "last_name": “Andrade”,
+    "college": “PC”,
+    "year": 19,
+    "email": "samantha.andrade@yale.edu”,
+    "picture": "/img/board/araceli_lopez.jpg",
+    "major": “Electrical Engineering”,
+    "role", “Graduate SWE Coordinator”
+},
+{
     "first_name": “Tracy”,
     "last_name": “Chung”,
     "college": "PC",
