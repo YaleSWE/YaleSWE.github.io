@@ -1,0 +1,48 @@
+.portfolio-modal .modal-dialog {
+  /* margin: 1rem; */
+  max-width: 70vw;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    max-width: 500px;
+    margin: 1.75rem auto;
+  }
+  .modal-dialog-centered {
+    min-height: calc(100% - (1.75rem * 2));
+  }
+  .modal-sm {
+    max-width: 300px;
+  }
+}
+
+.centered-item {
+  margin: auto;
+}
+
+.section-midheading {
+  font-size: 35px;
+}
+
+.fa-goodreads-g:before {
+  content: "\f3a9";
+}
+
+.portfolio-box .portfolio-box-caption {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  width: 91%;
+  height: 100%;
+  text-align: center;
+  opacity: 0;
+  color: #fff;
+  background: rgba(240, 95, 64, 0.9);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.card-text {
+  font-size: 1rem;
+}
