@@ -4,7 +4,9 @@
     "last_name": "Westerfield",
     "college": "PC",
     "year": 20,
+    "email": "caitlin.westerfield@yale.edu”,
     "picture": "/img/board/caitlin_westerfield.jpg",
+    "major": “Computer Science”,
     "role", "Co-President"
 },
 {
@@ -12,55 +14,69 @@
     "last_name": "Brooks",
     "college": "SY",
     "year": 20,
+    "email": "elizabeth.brooks@yale.edu”,
     "picture": "/img/board/elizabeth_brooks.jpg",
+    "major": "Electrical Engineering & Computer Science",
     "role", "Co-President"
 },
 {
-    "first_name": "Caitlin",
-    "last_name": "Westerfield",
+    "first_name": “Ellen”,
+    "last_name": “Yan”,
+    "college": “SM”,
+    "year": 20,
+    "email": "ellen.yan@yale.edu”,
+    "picture": "/img/board/ellen_yan.jpg",
+    "major": “Mechanical Engineering”,
+    "role", “Treasurer”
+},
+{
+    "first_name": “Katherine”,
+    "last_name": "Arackaparambil",
+    "college": “ES”,
+    "year": 21,
+    "email": "katherine.arackaparambil@yale.edu”,
+    "picture": "/img/board/katherine_arackaparambil.jpg",
+    "major": “Computer Science”,
+    "role", “Secretary”
+},
+{
+    "first_name": “Alexis”,
+    "last_name": “Dornan”,
+    "college": “MC”,
+    "year": 21,
+    "email": "alexis.dornan@yale.edu”,
+    "picture": "/img/board/alexis_dornan.jpg",
+    "major": “Computer Science”,
+    "role", “Social Chair“
+},
+{
+    "first_name": “Araceli”,
+    "last_name": “Lopez”,
+    "college": “SM”,
+    "year": 21,
+    "email": "araceli.lopez@yale.edu”,
+    "picture": "/img/board/araceli_lopez.jpg",
+    "major": “Biomedical Engineering”,
+    "role", “Outreach Chair”
+},
+{
+    "first_name": “Tracy”,
+    "last_name": “Chung”,
     "college": "PC",
-    "year": 20,
-    "picture": "/img/board/caitlin_westerfield.jpg",
-    "role", "Co-President"
+    "year": 19,
+    "email": "tracy.chung@yale.edu”,
+    "picture": "/img/board/tracy_chung.jpeg”,
+    "major": “Biomedical Engineer”,
+    "role", “Advisor“
 },
 {
-    "first_name": "Elizabeth",
-    "last_name": "Brooks",
-    "college": "SY",
-    "year": 20,
-    "picture": "/img/board/elizabeth_brooks.jpg",
-    "role", "Co-President"
-},
-{
-    "first_name": "Caitlin",
-    "last_name": "Westerfield",
-    "college": "PC",
-    "year": 20,
-    "picture": "/img/board/caitlin_westerfield.jpg",
-    "role", "Co-President"
-},
-{
-    "first_name": "Elizabeth",
-    "last_name": "Brooks",
-    "college": "SY",
-    "year": 20,
-    "picture": "/img/board/elizabeth_brooks.jpg",
-    "role", "Co-President"
-},
-{
-    "first_name": "Caitlin",
-    "last_name": "Westerfield",
-    "college": "PC",
-    "year": 20,
-    "picture": "/img/board/caitlin_westerfield.jpg",
-    "role", "Co-President"
-},
-{
-    "first_name": "Elizabeth",
-    "last_name": "Brooks",
-    "college": "SY",
-    "year": 20,
-    "picture": "/img/board/elizabeth_brooks.jpg",
-    "role", "Co-President"
+    "first_name": “Colleen”,
+    "last_name": “Coffey”,
+    "college": “TD”,
+    "year": 19,
+    "email": "colleen.coffey@yale.edu”,
+    "picture": "/img/board/colleen_coffey.jpg",
+    "major": “Chemical Engineer”,
+    "role", “Advisor”
 }
 ]
